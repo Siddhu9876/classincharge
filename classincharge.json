@@ -1,0 +1,60 @@
+{
+  "classes": [
+    {
+      "year": "II",
+      "semester": "II",
+      "classInchargeName": "Mrs.P.Shyamala",
+      "section": "ALPHA",
+      "contactNo": "9894965756"
+    },
+    {
+      "year": "II",
+      "semester": "II",
+      "classInchargeName": "Mrs.Sowmya Saraf",
+      "section": "BETA",
+      "contactNo": "9701260289"
+    },
+    {
+      "year": "II",
+      "semester": "II",
+      "classInchargeName": "Mrs.S.Monika",
+      "section": "GEMMA",
+      "contactNo": "9566841184"
+    },
+    {
+      "year": "II",
+      "semester": "II",
+      "classInchargeName": "Mr.M.Santhosh Kumar",
+      "section": "DELTA",
+      "contactNo": "9701723629"
+    },
+    {
+      "year": "II",
+      "semester": "II",
+      "classInchargeName": "Mrs.P.Sabitha",
+      "section": "SIGMA",
+      "contactNo": "8008463700"
+    },
+    {
+      "year": "II",
+      "semester": "II",
+      "classInchargeName": "Mr.G.Raju",
+      "section": "OMEGA",
+      "contactNo": "9640051898"
+    },
+    {
+      "year": "II",
+      "semester": "II",
+      "classInchargeName": "Mrs.D.Suneetha",
+      "section": "ZETA",
+      "contactNo": "7702976749"
+    },
+    {
+      "year": "II",
+      "semester": "II",
+      "classInchargeName": "Mr.Naveena Kumar",
+      "section": "EPSILON",
+      "contactNo": "9951414245"
+    }
+  ]
+}
